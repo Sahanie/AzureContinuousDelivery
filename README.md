@@ -1,3 +1,6 @@
+# GitHub Actions Status Badge
+![Python application](https://github.com/Sahanie/AzureContinuousDelivery/workflows/Python%20application/badge.svg)
+
 # Overview
 
 <TODO: complete this with an overview of your project>
